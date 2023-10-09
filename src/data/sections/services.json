@@ -1,0 +1,50 @@
+{
+    "title": {"first": "How We Can", "second": "Help You"},
+    "column1": {
+        "heading": "Communication Integration",
+        "items": [
+            {
+                "num": "01",
+                "name": "Voice",
+                "icon": "img/icons/voice.svg",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+                "num": "02",
+                "name": "Mobility",
+                "icon": "img/icons/mobile.svg",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+                "num": "03",
+                "name": "SaaS",
+                "icon": "img/icons/center.svg",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+            
+        ]
+    },
+    "column2": {
+        "heading": "Development",
+        "items": [
+            {
+                "num": "04",
+                "name": "Blockchain",
+                "icon": "img/icons/blockchain.svg",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+                "num": "05",
+                "name": "DevOps",
+                "icon": "img/icons/devops.svg",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+                "num": "06",
+                "name": "Website",
+                "icon": "img/icons/web.svg",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+        ]
+    }
+}
